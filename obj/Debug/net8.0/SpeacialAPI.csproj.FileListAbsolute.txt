@@ -31,3 +31,4 @@ C:\Users\SICE\AppWeb\.NET\SpecialAPI\SpeacialAPI\obj\Debug\net8.0\refint\Speacia
 C:\Users\SICE\AppWeb\.NET\SpecialAPI\SpeacialAPI\obj\Debug\net8.0\SpeacialAPI.pdb
 C:\Users\SICE\AppWeb\.NET\SpecialAPI\SpeacialAPI\obj\Debug\net8.0\SpeacialAPI.genruntimeconfig.cache
 C:\Users\SICE\AppWeb\.NET\SpecialAPI\SpeacialAPI\obj\Debug\net8.0\ref\SpeacialAPI.dll
+C:\Users\SICE\AppWeb\.NET\SpecialAPI\SpeacialAPI\obj\Debug\net8.0\SpeacialAPI.sourcelink.json
